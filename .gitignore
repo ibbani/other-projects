@@ -1,0 +1,13 @@
+# ignore below folders
+/bin
+/target
+/.settings
+
+# ignore below files
+.class
+.tmp
+.log
+.DS_Store
+.project
+.classpath
+
