@@ -6,6 +6,7 @@
 	<groupId>com.employee.earning.report</groupId>
 	<artifactId>employee-earning-report</artifactId>
 	<version>1.0-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>Employee Earning Report</name>
 	<description>Project for university assignment</description>
 	
